@@ -2,7 +2,7 @@
 	"name" : "NDI-Recorder-Monitor",
 	"version" : 1,
 	"creationdate" : 3788802765,
-	"modificationdate" : 3788898049,
+	"modificationdate" : 3789056248,
 	"viewrect" : [ 25.0, 119.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 1,
@@ -17,7 +17,8 @@
 			}
 ,
 			"cameraGrabber_me.maxpat" : 			{
-				"kind" : "patcher"
+				"kind" : "patcher",
+				"local" : 1
 			}
 
 		}
